@@ -1,0 +1,6 @@
+{
+  "watch": ["src", "tests"],
+  "ext": "ts",
+  "exec": "tsx node_modules/vitest/vitest.mjs run"
+}
+
